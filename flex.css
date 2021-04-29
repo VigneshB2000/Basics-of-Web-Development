@@ -1,0 +1,7 @@
+<style>
+      .block div{
+      	display: flex;
+      	border:1px #ccc solid;
+      	padding:10px;
+      }     
+</style>
